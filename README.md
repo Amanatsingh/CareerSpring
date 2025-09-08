@@ -1,0 +1,1 @@
+CareerSpring is a full-stack web application designed to streamline the job search and career planning process. It offers users tools to explore career paths, track job applications, manage resumes, and receive personalized job recommendations—all in one platform.
